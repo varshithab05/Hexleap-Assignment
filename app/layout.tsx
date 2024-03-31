@@ -21,7 +21,6 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <title>Hexleap-Assignment</title>
-        <script src="https://kit.fontawesome.com/6953004357.js"></script>
       </head>
       <body className={inter.className}>
         <ThemeProvider attribute="class">
